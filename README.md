@@ -26,7 +26,7 @@ To design a website to perform mathematical calculations in server side.
 
 
 # PROGRAM:
-```html  
+``` html
 index.html
 <html>
 <head>
@@ -39,7 +39,8 @@ index.html
 <style>
     *{
         box-sizing: border-box;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+		Geneva, Verdana, sans-serif
     }
 	
 	body{
