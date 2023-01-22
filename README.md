@@ -7,24 +7,17 @@ To design a website to perform mathematical calculations in server side.
 # DESIGN STEPS:
 
 ## Step 1:
-
-
-
+Design your website for any mathematical calculation using wireframe work.
 ## Step 2:
-
-
-
+Use HTML and CSS to execute the wireframe work.
 ## Step 3:
-
-
+Use views.py to execute the coding in serverside.
 ## Step 4:
-
-
-
+Mention the path of the website in urls.py.
 ## Step 5:
-
-
-
+Give the urls in urls.py
+## Step 6:
+Publish the website in the given URL
 # PROGRAM:
 ``` html
 index.html
