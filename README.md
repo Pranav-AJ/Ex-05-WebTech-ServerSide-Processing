@@ -105,7 +105,7 @@ def areacalculation(request):
         context['h']=h
     return render(request,"area_app/server.html",context)
 
-    url.py :
+url.py :
 
 from django.contrib import admin
 from django.urls import path
