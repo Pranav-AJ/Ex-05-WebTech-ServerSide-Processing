@@ -103,13 +103,13 @@ def areacalculation(request):
         context['area'] = area
         context['b']=b
         context['h']=h
-    return render(request,"aldrinapp/math.html",context)
+    return render(request,"area_app/server.html",context)
 
     url.py :
 
 from django.contrib import admin
 from django.urls import path
-from aldrinapp import views
+from area_app import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
